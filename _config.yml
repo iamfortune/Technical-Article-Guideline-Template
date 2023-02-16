@@ -1,0 +1,3 @@
+# Build settings for jekyll 
+markdown: kramdown
+theme: minima

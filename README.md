@@ -43,6 +43,8 @@ Anther summary can be seen below:
 
 ![article summary](img/article-description.png)
 
+*It's important to note that article descriptions are usually added to your blog post when you publish it. So you don't have to worry about adding it to your article.*
+
 ## Article Title
 
 An article title is the name you give your article. This is the first thing a reader sees when they come across your article - the TITLE. it should be catchy and describe your article. 

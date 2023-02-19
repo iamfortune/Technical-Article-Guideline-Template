@@ -1,7 +1,7 @@
 <div align="center">
 
 #  Technical-Article-Guide-template
-A template for writing technical articles and content for new and emerging technical writers 🥑. You can check it out here. <br />
+A template for writing technical articles and content for new and emerging technical writers 🥑. You can check it out [here](/ARTICLE-TEMPLATE.md). <br />
 
 </div>
 

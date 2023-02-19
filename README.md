@@ -40,7 +40,7 @@ Here's an example of an article description on using grommet in a react app:
 
 > In this article, we will build a simple React app that uses Grommet, a React component library that provides accessibility, modularity, responsiveness, and theming in a tidy package. We will then deploy the app to Netlify.
 
-Anther summary can be seen below:
+Another summary can be seen below:
 
 ![article summary](img/article-description.png)
 
